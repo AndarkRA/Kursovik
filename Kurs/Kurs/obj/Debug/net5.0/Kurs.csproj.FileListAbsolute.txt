@@ -1,0 +1,15 @@
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\Kurs.exe
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\Kurs.deps.json
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\Kurs.runtimeconfig.json
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\Kurs.runtimeconfig.dev.json
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\Kurs.dll
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\ref\Kurs.dll
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\bin\Debug\net5.0\Kurs.pdb
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.AssemblyInfoInputs.cache
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.AssemblyInfo.cs
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.dll
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\ref\Kurs.dll
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.pdb
+C:\GeekBrains\Kursovik\Kursovik\Kurs\Kurs\obj\Debug\net5.0\Kurs.genruntimeconfig.cache
